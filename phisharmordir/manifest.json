@@ -1,0 +1,17 @@
+{
+  "name": "PhishArmor",
+  "description": "Phish/Spam Detection",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "phisharmour.png"
+  },
+  "permissions": ["activeTab"],
+  "icons": {
+    "16": "phisharmour.png",
+    "48": "phisharmour.png",
+    "128": "phisharmour.png"
+  }
+  
+}
